@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8dbf291a-a593-47ff-996b-83cef50fbb4a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ts.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/2020-06-03.md" beforeDir="false" afterPath="$PROJECT_DIR$/2020-06-03.md" afterDir="false" />
     </list>
@@ -26,49 +25,67 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="md" value="9" />
+          <entry key="md" value="10" />
           <entry key="png" value="1" />
-          <entry key="ts" value="4" />
+          <entry key="ts" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Image" value="1" />
-          <entry key="Markdown" value="9" />
-          <entry key="TypeScript" value="4" />
+          <entry key="Markdown" value="10" />
+          <entry key="TypeScript" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="md" value="237" />
-          <entry key="ts" value="373" />
+          <entry key="md" value="259" />
+          <entry key="ts" value="509" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="237" />
-          <entry key="TypeScript" value="373" />
+          <entry key="Markdown" value="259" />
+          <entry key="TypeScript" value="509" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts">
         <counts>
-          <entry key="TypeScriptServerServiceImpl" value="1" />
+          <entry key="TypeScriptServerServiceImpl" value="2" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2020-06-03.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="11">
+              <caret line="44" column="1" lean-forward="true" selection-start-line="44" selection-start-column="1" selection-end-line="44" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/2020-06-03.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="342">
-                <caret line="28" column="8" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="8" />
+              <first_editor relative-caret-position="612">
+                <caret line="34" column="10" lean-forward="true" selection-start-line="34" selection-start-column="10" selection-end-line="34" selection-end-column="10" />
               </first_editor>
               <second_editor>
                 <markdownNavigatorState />
               </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es5.d.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="282">
+              <caret line="1353" column="5" selection-start-line="1353" selection-start-column="5" selection-end-line="1353" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -163,12 +180,12 @@
       <option name="presentableId" value="Default" />
       <updated>1591072146855</updated>
       <workItem from="1591072148011" duration="5297000" />
-      <workItem from="1591840496207" duration="580000" />
+      <workItem from="1591840496207" duration="4115000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5877000" />
+    <option name="totallyTimeSpent" value="9412000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="-4" width="1920" height="1021" extended-state="6" />
@@ -178,6 +195,7 @@
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Alibaba Cloud Explorer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -192,7 +210,7 @@
       <window_info anchor="bottom" id="GraphQL" order="11" />
       <window_info anchor="bottom" id="TypeScript" order="12" />
       <window_info anchor="bottom" id="SmartIM" order="13" />
-      <window_info anchor="bottom" id="Terminal" order="14" weight="0.47045708" />
+      <window_info anchor="bottom" id="Terminal" order="14" weight="0.53846157" />
       <window_info anchor="bottom" id="Event Log" order="15" side_tool="true" />
       <window_info anchor="bottom" id="SOQL Query" order="16" />
       <window_info anchor="bottom" id="Anonymous Apex" order="17" />
@@ -210,12 +228,8 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es5.d.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-960">
-          <caret line="1353" column="5" selection-start-line="1353" selection-start-column="5" selection-end-line="1353" selection-end-column="5" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/ts.png">
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/test.ts">
       <provider selected="true" editor-type-id="text-editor">
@@ -224,21 +238,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2020-06-03.ts">
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es5.d.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="123">
-          <caret line="67" column="15" lean-forward="true" selection-start-line="67" selection-start-column="15" selection-end-line="67" selection-end-column="15" />
+        <state relative-caret-position="282">
+          <caret line="1353" column="5" selection-start-line="1353" selection-start-column="5" selection-end-line="1353" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ts.png">
-      <provider selected="true" editor-type-id="images" />
+    <entry file="file://$PROJECT_DIR$/2020-06-03.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11">
+          <caret line="44" column="1" lean-forward="true" selection-start-line="44" selection-start-column="1" selection-end-line="44" selection-end-column="1" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/2020-06-03.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="342">
-            <caret line="28" column="8" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="8" />
+          <first_editor relative-caret-position="612">
+            <caret line="34" column="10" lean-forward="true" selection-start-line="34" selection-start-column="10" selection-end-line="34" selection-end-column="10" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
